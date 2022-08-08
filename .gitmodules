@@ -1,3 +1,7 @@
+[submodule "GitTutorial"]
+	path = GitTutorial
+	url = https://github.com/PreethiVarshaM/GitTutorial.git
+
 
 [submodule "Git_Tut"]
 	path = Git_Tut
