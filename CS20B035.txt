@@ -1,3 +1,4 @@
-New .txt file
+[submodule "SETut22_1"]
+	url = https://github.com/SPavanKishore/SETut22_1
 Sala Pavan Sai Teja Kishore
-CS20B035
+CS20b035
