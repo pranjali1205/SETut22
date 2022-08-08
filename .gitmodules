@@ -1,4 +1,8 @@
 
+[submodule "Git_Tut"]
+	path = Git_Tut
+	url = https://github.com/GNamithaReddy/Git_Tut
+
 [submodule "SE-Tutorial"]
 	path = SE-Tutorial
 	url = https://github.com/LellaHemasriSai/SE-Tutorial
