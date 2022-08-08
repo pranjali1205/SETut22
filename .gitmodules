@@ -1,3 +1,8 @@
+
+[submodule "SE-Tutorial"]
+	path = SE-Tutorial
+	url = https://github.com/LellaHemasriSai/SE-Tutorial
+
 [submodule "SEtut1"]
 	path = SEtut1
 	url = https://github.com/Ganesh-P03/SEtut1.git
