@@ -1,1 +1,3 @@
-welcome to SE
+welcome to SE 
+Learned Git version control today :) and all commands related to git
+Making change to this file by Manasa

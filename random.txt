@@ -1,2 +1,1 @@
-this is a random file
-change 1
+This is a Namitha made a change to random file
